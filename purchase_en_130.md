@@ -1,5 +1,5 @@
 {
-   "buttonText":"Subscribe $11.99 per week",
+   "buttonText":"Start Free Trial to Unlock",
    "skipFontSize":16,
    "skipText":"Skip",
    "skipFontColor":"pink",
