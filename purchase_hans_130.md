@@ -1,5 +1,5 @@
 {
-   "buttonText":"立即付费订阅 ¥88/周",
+   "buttonText":"限时免费启用胎动预警",
    "skipFontSize":16,
    "skipText":"跳过",
    "skipFontColor":"pink",
