@@ -1,6 +1,6 @@
 {
    "buttonText":"限时免费启用胎动预警",
-   "skipFontSize":16,
+   "skipFontSize":14,
    "skipText":"跳过",
    "skipFontColor":"pink",
    "autoShowMinCount":5,
